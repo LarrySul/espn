@@ -580,7 +580,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 
 .dark .button-dark:hover { background-color: #1ABC9C; }
 
-.dark .button-light:not(.button-border):hover { background-color: #282828; }
+.dark .button-light:not(.button-border):hover { background-color: #50b9ce; }
 
 .dark .button.button-border:not(.button-light) {
 	border-color: rgba(255,255,255,0.4);

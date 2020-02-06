@@ -406,7 +406,7 @@ span.middot {
 }
 
 .bgcolor,
-.bgcolor #header-wrap { background-color: #1ABC9C !important; }
+.bgcolor #header-wrap { background-color: #314555 !important; }
 
 .color { color: #1ABC9C !important; }
 
@@ -1123,6 +1123,7 @@ body.stretched #header.full-header .container {
 	opacity: 0;
 	pointer-events: none;
 	cursor: pointer;
+	background-color: #F58634;
 	font-size: 14px;
 	position: absolute;
 	top: 50%;
@@ -6611,7 +6612,7 @@ body:not(.device-touch) .button {
 
 .button-light {
 	background-color: #EEE;
-	color: #333;
+	color: #fff;
 	text-shadow: none !important;
 }
 
@@ -7203,11 +7204,11 @@ body:not(.device-touch) .button.button-full strong {
 	border-color: #111;
 }
 
-.button-white { background-color: #F9F9F9; }
+.button-white { background-color: #F58634; }
 .button-3d.button-white:hover,
-.button-reveal.button-white:hover { background-color: #F9F9F9 !important; }
+.button-reveal.button-white:hover { background-color: #F58634 !important; }
 
-
+/* #50b9ce */
 /* Buttons - No Hover
 -----------------------------------------------------------------*/
 
